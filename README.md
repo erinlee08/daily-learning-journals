@@ -1,3 +1,6 @@
+#daily-learning-journals 8-24-
+today was a better day for me. what i did differently was that i was more focused on teaching myself what the lecture/demo meant in my own words. Also, i will start commenting when writing code as well to really check my own understanding and reinforce the concept. Hope that will work. Repetition, reptition.
+
 #daily-learning-journals 8-23-2016
 learned about the constructor today. made sense why it's an important concept in JS for performance and readability issues. My frustration for the day was more with my laptop. I am not sure if it's my computer or the websites I was trying to use. Google, codepen were giving me problems. Craig was there when this whole thing happened. I had a working code ( validated by Craig) that couldn't run on google nor codepen. when craig ran the same code on repl, it worked. I had thought maybe my laptop needed a break (just like me), but those two sites were still the same. And codepen was the only one I know of that allows the testing of the DOM. Well, no luck either!. I even copied and pasted your demo codes from today and still, no got ran.
 
