@@ -1,3 +1,7 @@
+#daily-learning-journals 8-30
+today, i reviewed the git acp to both master and branch. Now I know why sometimes my pushes never showed up in gh ( wrong repo).
+also, with today's assignment, I felt that I knew what to do, but it was just putting the right code was hard (like how it has been with all assignments.) I am not sure how conducive this is for me in terms of learning to code....
+
 #daily-learning-journals 8-24-
 today was a better day for me. what i did differently was that i was more focused on teaching myself what the lecture/demo meant in my own words. Also, i will start commenting when writing code as well to really check my own understanding and reinforce the concept. Hope that will work. Repetition, reptition.
 
