@@ -1,3 +1,9 @@
+#daily-learning-journals8-31
+well,besides from learning what we went over in class, i learned the importance of committing often. I have been saving my work but haven't developed a habit of committing to gh. I now have learned the benefit of that. finally, with the help I was getting during the lab, i was finally getting my pictures to show up ( may not work how i wanted them to, but least, 3 pictures showed up and new ones were generated at random.) After class, I don't know what I did, my code was messed up again. i spent hours trying to get it back to how it was before, but no such luck.... Had I committed, i would have been able to pull from gh...
+
+#daily-learning-journals
+learned about canvas today. seems like a really cool feature to have on any website. would have liked to be able to use that for my assignment.
+
 #daily-learning-journals 8-30
 today, i reviewed the git acp to both master and branch. Now I know why sometimes my pushes never showed up in gh ( wrong repo).
 also, with today's assignment, I felt that I knew what to do, but it was just putting the right code was hard (like how it has been with all assignments.) I am not sure how conducive this is for me in terms of learning to code....
